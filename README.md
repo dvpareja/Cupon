@@ -10,11 +10,11 @@ Este repositorio de código tiene dos ramas:
 
 ## Instalación ##
 
-1) **Clona** el repositorio: `git clone git://github.com/javiereguiluz/Copon.git cupon`
+1) **Clona** el repositorio: `git clone git://github.com/javiereguiluz/Cupon.git cupon`
 
 2) **Entra** en el directorio `cupon`
 
-3) Selecciona la **rama** que quieras probar: `git checkout 2.0`
+3) Selecciona la **rama** que quieras probar: `git checkout 2.0` o `git checkout 2.1`
 
 4) Sigue las instrucciones de **instalación** y **configuración** que encontrarás
    en el archivo `README.md` de cada rama.
