@@ -28,7 +28,7 @@ Si descubres algún error, por favor utiliza [la página de issues de Github](ht
 ## Instalación ##
 
   1. `mkdir cupon`
-  2. `git clone git://github.com/javiereguiluz/Cupon.git cupon`
+  2. `git clone git://github.com/dvpareja/Cupon.git cupon`
   3. `cd cupon`
   4. `php bin/vendors install`
   5. `chmod -R 777 app/cache app/logs` (lee la sección [Setting up Permissions](http://symfony.com/doc/2.0/book/installation.html#configuration-and-setup) para hacer esto de forma más elegante)
